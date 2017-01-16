@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Stocks>
+  <Stock id="3060" name="&#x9298;&#x7570;" price="" date="2014/11/05" type="BUY" note=""/>
+  <Stock id="3673" name="F-TPK" price="" date="2014/11/05" type="BUY" note=""/>
+  <Stock id="2439" name="&#x7F8E;&#x5F8B;" price="" date="2014/11/05" type="BUY" note=""/>
+  <Stock id="2454" name="&#x806F;&#x767C;&#x79D1;" price="" date="2014/11/05" type="BUY" note=""/>
+  <Stock id="2049" name="&#x4E0A;&#x9280;" price="" date="2014/11/05" type="BUY" note=""/>
+  <Stock id="2474" name="&#x53EF;&#x6210;" price="" date="2014/11/05" type="BUY" note=""/>
+  <Stock id="1476" name="&#x5112;&#x9D3B;" price="" date="2014/11/05" type="BUY" note=""/>
+  <Stock id="3008" name="&#x5927;&#x7ACB;&#x5149;" price="" date="2014/11/05" type="BUY" note=""/>
+  <Stock id="2059" name="&#x5DDD;&#x6E56;" price="" date="2014/11/20" type="BUY" note=""/>
+  <Stock id="3231" name="&#x7DEF;&#x5275;" price="" date="2014/12/01" type="BUY" note=""/>
+  <Stock id="2498" name="&#x5B8F;&#x9054;&#x96FB;" price="" date="2015/01/15" type="BUY" note=""/>
+  <Stock id="4938" name="&#x548C;&#x78A9;" price="" date="2015/06/25" type="BUY" note=""/>
+</Stocks>

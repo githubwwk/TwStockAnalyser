@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Stocks>
+  <Stock id="3452" name="&amp;#30410;&amp;#36890;" price="" date="2013/10/02" type="BUY" note=""/>
+  <Stock id="6244" name="&amp;#33538;&amp;#36842;" price="" date="2013/10/02" type="BUY" note=""/>
+  <Stock id="5483" name="&amp;#20013;&amp;#32654;&amp;#26230;" price="" date="2013/10/02" type="BUY" note=""/>
+  <Stock id="3514" name="&amp;#26161;&amp;#26230;" price="" date="2013/10/02" type="BUY" note=""/>
+  <Stock id="3042" name="&amp;#26230;&amp;#25216;" price="" date="2013/10/18" type="BUY" note=""/>
+</Stocks>

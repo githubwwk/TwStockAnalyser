@@ -1,0 +1,66 @@
+<HTML>
+	<HEAD>
+		<meta http-equiv="Content-Type" content="text/html; charset=big5">
+		<TITLE>TW Stock Daily Report</TITLE>
+	</HEAD>        	
+	
+	<br>
+	<br>
+	<table  border="1" style="border-collapse:collapse;" borderColor=black width="500" align="left" CELLPADDING="3">				
+		<tbody>
+			<tr>
+	   	<td><a href="../../" target="_top"><img src="/image/home.ico" width="40" height="40"/></a></td>	
+			<td>	
+			<table style="border: 5px none rgb(109,2,107); font-size: 16px" width="100" align="center" CELLPADDING="1">		
+				<caption>分析資料</caption>	
+				<tbody>
+					<td>			  		
+			  		<select onchange="window.open(this.options[this.selectedIndex].value,'report')" id="analyse_list"  style="width: 130px;">
+	             <option value="TSE_FGB_report.html">外資 上市(買)</option>
+	             <option value="TSE_FGS_report.html">外資 上市(賣)</option>                
+	             <option value="OTC_FGB_report.html">外資 上櫃(買)</option> 
+	             <option value="OTC_FGS_report.html">外資 上櫃(賣)</option>                              
+	             <option value="TWSE_report.html">大盤資訊</option>
+	             <option value="FUT_report.html">期貨資訊</option>
+	          </select>
+	        </td>
+	      </tbody>
+		  </table>	
+		  </td>
+		  <td>
+			<table style="border: 5px none rgb(109,2,107); font-size: 16px" width="100" align="center" CELLPADDING="1">		
+				<caption>奇摩資料</caption>	
+				<tbody>
+					<td>			  		
+			  		<select onchange="window.open(this.options[this.selectedIndex].value,'_new')" id="analyse_list"  style="width: 130px;">
+	             <option value="http://tw.stock.yahoo.com/d/i/fgbuy_tse50.html" target="_new">外資 上市(50買)</option>
+	             <option value="http://tw.stock.yahoo.com/d/i/fgsell_tse50.html" target="_new"b>外資 上市(50賣)</option>                
+	             <option value="http://tw.stock.yahoo.com/d/i/fgbuy_otc50.html" target="_new">外資 上櫃(50買)</option> 
+	             <option value="http://tw.stock.yahoo.com/d/i/fgsell_otc50.html" target="_new">外資 上櫃(50賣)</option>                              
+	             <option value="http://tw.stock.yahoo.com/d/i/credit.html" target="_new">資券餘額</option>
+	             
+	          </select>
+	        </td>
+	      </tbody>
+		  </table>	  
+		  </td>	
+		  <td>
+			<table style="border: 5px none rgb(109,2,107); font-size: 16px" width="100" align="center" CELLPADDING="1">		
+				<caption>觀察名單</caption>	
+				<tbody>
+					<td>			  		
+			  		<select onchange="window.open(this.options[this.selectedIndex].value,'report')" id="monitor_list"  style="width: 130px;">
+	             <option value="MONITOR_USER_report.html">Monitor 1</option>
+	             <option value="MONITOR_LONGTERM_report.html">Monitor 2</option>                
+	             <option value="MONITOR_SHORTTERM_report.html">Monitor 3</option> 
+	             <option value="MONITOR_SELL_report.html">Monitor 4</option> 
+	             <option value="MONITOR_BUY_report.html">Monitor 5</option>                 
+	          </select>
+	        </td>
+	      </tbody>
+		  </table>
+		  </td>
+		</tr>
+	  </tbody>
+	</table>			  
+</HTML>

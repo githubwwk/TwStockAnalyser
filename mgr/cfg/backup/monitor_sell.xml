@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Stocks>
+  <Stock id="2324" name="&amp;#20161;&amp;#23542;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="3231" name=" &amp;#32239;&amp;#21109;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="2385" name="&amp;#32676;&amp;#20809;" price="" date="2013/11/06" type="SELL" note=""/>
+  <Stock id="3045" name="&amp;#21488;&amp;#28771;&amp;#22823;" price="" date="2013/11/06" type="SELL" note=""/>
+  <Stock id="2106" name="&amp;#24314;&amp;#22823;" price="" date="2013/11/06" type="SELL" note=""/>
+  <Stock id="1301" name="&amp;#21488;&amp;#22609;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="4938" name="&amp;#21644;&amp;#30889;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="2353" name="&amp;#23439;&amp;#30849;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="9939" name="&amp;#23439;&amp;#20840;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="2458" name="&amp;#32681;&amp;#38534;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="2317" name="&amp;#40251;&amp;#28023;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="6147" name="&amp;#38926;&amp;#37030;&#9;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="3556" name="&amp;#31166;&amp;#29790;&amp;#20126;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="3598" name="&amp;#22869;&amp;#21147;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="6269" name="&amp;#21488;&amp;#37089;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="2356" name="&amp;#33521;&amp;#26989;&amp;#36948;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="3006" name="&amp;#26230;&amp;#35946;&amp;#31185;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="2379" name="&amp;#29790;&amp;#26161;&#9;" price="" date="2013/11/06" type="BUY" note=""/>
+  <Stock id="3062" name="&amp;#24314;&amp;#28450;" price="" date="2013/11/06" type="BUY" note=""/>
+</Stocks>

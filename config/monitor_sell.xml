@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Stocks>
+  <Stock id="2498" name="&#x5B8F;&#x9054;&#x96FB;" price="246.5" date="2013/8/27" type="SELL" note="&#x524D;&#x9014;&#x7121;&#x4EAE;"/>
+  <Stock id="2458" name="&#x7FA9;&#x9686;" price="54.5" date="2013/9/10" type="BUY" note=""/>
+  <Stock id="3260" name="&#x5A01;&#x525B;" price="79.7" date="2013/9/17" type="SELL" note=""/>
+</Stocks>

@@ -1,0 +1,23 @@
+<Setting>
+	<System>
+		<!-- <REPORT_DIR   name="~/stock_www/"/> -->		
+		<VALID_DAYS   name="180" />
+		<REPORT_DIR   name="./report"/>
+		<DATABASE_DIR name="./database" />
+		<TEMPLATE_DIR name="./template" />
+	</System>
+	<Monitor>
+		<!--
+		<MONITOR_USER      name="./config/monitor_user.xml" />
+		<MONITOR_LONGTERM  name="./config/monitor_longterm.xml" />
+		<MONITOR_SHORTTERM name="./config/monitor_shortterm.xml" />
+		<MONITOR_SELL      name="./config/monitor_sell.xml" />
+		<MONITOR_BUY       name="./config/monitor_buy.xml" />		
+		-->
+		<MONITOR_USER      name="./mgr/cfg/monitor_user.xml" />
+		<MONITOR_LONGTERM  name="./mgr/cfg/monitor_longterm.xml" />
+		<MONITOR_SHORTTERM name="./mgr/cfg/monitor_shortterm.xml" />
+		<MONITOR_SELL      name="./mgr/cfg/monitor_sell.xml" />
+		<MONITOR_BUY       name="./mgr/cfg/monitor_buy.xml" />
+	</Monitor>
+</Setting>

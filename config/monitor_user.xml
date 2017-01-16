@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stocks>
+    <Stock id="2454" name="聯發科" price="368.5" date="2013/8/27" type="BUY"  note="業績看漲"/>
+    <Stock id="3697" name="晨星"   price="246.5" date="2013/8/27" type="BUY"  note="合併成功"/>
+    <Stock id="2498" name="宏達電" price="246.5" date="2013/8/27" type="SELL" note="前途無亮"/>
+    <Stock id="2458" name="義隆"   price="54.5"  date="2013/9/10"  type="BUY" note=""/>
+    <Stock id="3260" name="威剛"   price="79.7"  date="2013/9/17"  type="SELL" note=""/>
+</Stocks>
+

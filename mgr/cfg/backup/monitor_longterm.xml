@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Stocks>
+  <Stock id="1215" name="&#x535C;&#x8702;" price="15.56" date="2013/8/27" type="BUY" note=""/>
+  <Stock id="1712" name="&#x8208;&#x8FB2;" price="15.31" date="2013/8/27" type="BUY" note=""/>
+  <Stock id="3264" name="&#x6B23;&#x9293;" price="18.56" date="2013/8/27" type="BUY" note=""/>
+  <Stock id="8042" name="&#x91D1;&#x5C71;&#x96FB;" price="40.11" date="2013/9/10" type="BUY" note=""/>
+  <Stock id="2886" name="&#x5146;&#x8C50;&#x91D1;" price="24.1" date="2013/9/18" type="BUY" note="&#x9577;&#x671F;&#x6295;&#x8CC7;"/>
+  <Stock id="9939" name="&#x5B8F;&#x5168;&#9;" price="65.0" date="2013/9/18" type="BUY" note="&#x9577;&#x671F;&#x6295;&#x8CC7;"/>
+  <Stock id="5471" name="&#x677E;&#x7FF0;" price="39.4" date="2013/09/25" type="BUY" note="&#x9577;&#x671F;&#x6295;&#x8CC7;"/>
+  <Stock id="2412" name="&#x4E2D;&#x83EF;&#x96FB;" price="94.0" date="2013/09/25" type="BUY" note="&#x9577;&#x671F;&#x6295;&#x8CC7;"/>
+  <Stock id="6121" name="&#x65B0;&#x666E;" price="143.0" date="2013/09/25" type="BUY" note="&#x6307;&#x6A19;&#x80A1;&#xFF0C;&#x9577;&#x671F;&#x89C0;&#x5BDF;"/>
+  <Stock id="3042" name="&#x6676;&#x6280;" price="40" date="2013/09/26" type="BUY" note="&#x8FD1;&#x5E74;SP&#x71B1;&#x8CE3;&#xFF0C;Crystal&#x9700;&#x6C42;&#x91CF;&#x61C9;&#x8A72;&#x589E;&#x52A0;"/>
+  <Stock id="3305" name="&#x6607;&#x8CBF;" price="30.1" date="2013/10/01" type="BUY" note="&#x710A;&#x932B;"/>
+  <Stock id="1708" name="&#x6771;&#x9E7C;" price="" date="2013/10/01" type="BUY" note=""/>
+  <Stock id="3211" name="&#x9806;&#x9054;" price="" date="2013/10/02" type="BUY" note=""/>
+  <Stock id="6202" name="&#x76DB;&#x7FA4;" price="" date="2013/10/04" type="BUY" note=""/>
+  <Stock id="2610" name="&#x83EF;&#x822A;" price="" date="2013/11/02" type="BUY" note=""/>
+  <Stock id="2618" name="&#x9577;&#x69AE;&#x822A;" price="" date="2013/11/02" type="BUY" note=""/>
+</Stocks>
